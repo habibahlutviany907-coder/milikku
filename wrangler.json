@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "milikku",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "963834be-dd84-44f9-aa46-d9bbe38240b7",
+			"database_name": "milikku"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
